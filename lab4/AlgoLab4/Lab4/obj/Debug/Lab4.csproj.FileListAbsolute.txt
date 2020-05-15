@@ -1,0 +1,7 @@
+D:\Навчання\Algo\lab4\AlgoLab4\Lab4\bin\Debug\Lab4.exe.config
+D:\Навчання\Algo\lab4\AlgoLab4\Lab4\bin\Debug\Lab4.exe
+D:\Навчання\Algo\lab4\AlgoLab4\Lab4\bin\Debug\Lab4.pdb
+D:\Навчання\Algo\lab4\AlgoLab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+D:\Навчання\Algo\lab4\AlgoLab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+D:\Навчання\Algo\lab4\AlgoLab4\Lab4\obj\Debug\Lab4.exe
+D:\Навчання\Algo\lab4\AlgoLab4\Lab4\obj\Debug\Lab4.pdb

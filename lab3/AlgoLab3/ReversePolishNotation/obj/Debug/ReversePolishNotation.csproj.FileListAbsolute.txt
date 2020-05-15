@@ -1,0 +1,9 @@
+D:\Навчання\Algo\lab3\AlgoLab3\ReversePolishNotation\obj\Debug\ReversePolishNotation.csprojAssemblyReference.cache
+D:\Навчання\Algo\lab3\AlgoLab3\ReversePolishNotation\obj\Debug\ReversePolishNotation.csproj.CoreCompileInputs.cache
+D:\Навчання\Algo\AlgoLabs\lab3\AlgoLab3\ReversePolishNotation\bin\Debug\ReversePolishNotation.exe.config
+D:\Навчання\Algo\AlgoLabs\lab3\AlgoLab3\ReversePolishNotation\bin\Debug\ReversePolishNotation.exe
+D:\Навчання\Algo\AlgoLabs\lab3\AlgoLab3\ReversePolishNotation\bin\Debug\ReversePolishNotation.pdb
+D:\Навчання\Algo\AlgoLabs\lab3\AlgoLab3\ReversePolishNotation\obj\Debug\ReversePolishNotation.csprojAssemblyReference.cache
+D:\Навчання\Algo\AlgoLabs\lab3\AlgoLab3\ReversePolishNotation\obj\Debug\ReversePolishNotation.csproj.CoreCompileInputs.cache
+D:\Навчання\Algo\AlgoLabs\lab3\AlgoLab3\ReversePolishNotation\obj\Debug\ReversePolishNotation.exe
+D:\Навчання\Algo\AlgoLabs\lab3\AlgoLab3\ReversePolishNotation\obj\Debug\ReversePolishNotation.pdb

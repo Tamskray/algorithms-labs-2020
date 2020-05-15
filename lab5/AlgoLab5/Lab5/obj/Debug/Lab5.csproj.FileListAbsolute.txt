@@ -1,0 +1,7 @@
+D:\Навчання\Algo\lab5\AlgoLab5\Lab5\bin\Debug\Lab5.exe.config
+D:\Навчання\Algo\lab5\AlgoLab5\Lab5\bin\Debug\Lab5.exe
+D:\Навчання\Algo\lab5\AlgoLab5\Lab5\bin\Debug\Lab5.pdb
+D:\Навчання\Algo\lab5\AlgoLab5\Lab5\obj\Debug\Lab5.csprojAssemblyReference.cache
+D:\Навчання\Algo\lab5\AlgoLab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+D:\Навчання\Algo\lab5\AlgoLab5\Lab5\obj\Debug\Lab5.exe
+D:\Навчання\Algo\lab5\AlgoLab5\Lab5\obj\Debug\Lab5.pdb

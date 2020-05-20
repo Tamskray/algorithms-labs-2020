@@ -1,0 +1,7 @@
+D:\Навчання\Algo\AlgoLabs\lab6-7\AlgoLab6-7\Graph\bin\Debug\Graph.exe.config
+D:\Навчання\Algo\AlgoLabs\lab6-7\AlgoLab6-7\Graph\bin\Debug\Graph.exe
+D:\Навчання\Algo\AlgoLabs\lab6-7\AlgoLab6-7\Graph\bin\Debug\Graph.pdb
+D:\Навчання\Algo\AlgoLabs\lab6-7\AlgoLab6-7\Graph\obj\Debug\Graph.csprojAssemblyReference.cache
+D:\Навчання\Algo\AlgoLabs\lab6-7\AlgoLab6-7\Graph\obj\Debug\Graph.csproj.CoreCompileInputs.cache
+D:\Навчання\Algo\AlgoLabs\lab6-7\AlgoLab6-7\Graph\obj\Debug\Graph.exe
+D:\Навчання\Algo\AlgoLabs\lab6-7\AlgoLab6-7\Graph\obj\Debug\Graph.pdb

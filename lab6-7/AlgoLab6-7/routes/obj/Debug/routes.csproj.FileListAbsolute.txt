@@ -1,0 +1,7 @@
+D:\Навчання\Algo\AlgoLabs\lab6-7\AlgoLab6-7\routes\bin\Debug\routes.exe.config
+D:\Навчання\Algo\AlgoLabs\lab6-7\AlgoLab6-7\routes\bin\Debug\routes.exe
+D:\Навчання\Algo\AlgoLabs\lab6-7\AlgoLab6-7\routes\bin\Debug\routes.pdb
+D:\Навчання\Algo\AlgoLabs\lab6-7\AlgoLab6-7\routes\obj\Debug\routes.csprojAssemblyReference.cache
+D:\Навчання\Algo\AlgoLabs\lab6-7\AlgoLab6-7\routes\obj\Debug\routes.csproj.CoreCompileInputs.cache
+D:\Навчання\Algo\AlgoLabs\lab6-7\AlgoLab6-7\routes\obj\Debug\routes.exe
+D:\Навчання\Algo\AlgoLabs\lab6-7\AlgoLab6-7\routes\obj\Debug\routes.pdb
